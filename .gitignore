@@ -1,0 +1,41 @@
+# Инструменты разработчика и IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Конфигурационные файлы и секреты (КРИТИЧЕСКИ ВАЖНО!)
+.env
+.env.*
+!.env.example
+
+# Go - скомпилированные бинарники
+/bin/
+/app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Фронтенд (Node.js)
+node_modules/
+dist/
+build/
+.npm
+.yarn
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Временные файлы и логи
+*.log
+repomix-output.xml
+tmp/
+.claude/
