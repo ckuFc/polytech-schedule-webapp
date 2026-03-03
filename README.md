@@ -1,10 +1,5 @@
 # Polytech Schedule TMA (Telegram Mini App)
 
-![Go Version](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat&logo=go)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=flat&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-
 Высоконагруженный сервис расписания для студентов с интеграцией в Telegram Mini Apps. Проект реализует полный цикл работы с расписанием: от автоматического парсинга внешних ресурсов до доставки асинхронных PUSH-уведомлений об отменах и заменах пар.
 
 ## 🚀 Ключевые особенности (Features)
